@@ -13,4 +13,7 @@
 
 ### title5
 
-###try git reset
+###try git 
+
+
+###try git checkout
